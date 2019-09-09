@@ -1,0 +1,103 @@
+{
+    "appenders": {
+        "out": {
+            "type": "stdout"
+        },
+        "trace": {
+            "type": "dateFile",
+            "filename": "./Logs/*/Trace/trace-",
+            "maxLogSize": 1048576,
+            "pattern": "yyyy-MM-dd.log",
+            "alwaysIncludePattern": true,
+            "layout": {
+                "type": "basic"
+            },
+            "backups": 5
+        },
+        "debug": {
+            "type": "dateFile",
+            "filename": "./Logs/*/Debug/debug-",
+            "maxLogSize": 1048576,
+            "pattern": "yyyy-MM-dd.log",
+            "alwaysIncludePattern": true,
+            "layout": {
+                "type": "basic"
+            },
+            "backups": 5
+        },
+        "info": {
+            "type": "dateFile",
+            "filename": "./Logs/*/Info/info-",
+            "maxLogSize": 1048576,
+            "pattern": "yyyy-MM-dd.log",
+            "alwaysIncludePattern": true,
+            "layout": {
+                "type": "basic"
+            },
+            "backups": 5
+        },
+        "warning": {
+            "type": "dateFile",
+            "filename": "./Logs/*/Warning/warning-",
+            "maxLogSize": 1048576,
+            "pattern": "yyyy-MM-dd.log",
+            "alwaysIncludePattern": true,
+            "layout": {
+                "type": "basic"
+            },
+            "backups": 5
+        },
+        "error": {
+            "type": "dateFile",
+            "filename": "./Logs/*/Error/error-",
+            "maxLogSize": 1048576,
+            "pattern": "yyyy-MM-dd.log",
+            "alwaysIncludePattern": true,
+            "layout": {
+                "type": "basic"
+            },
+            "backups": 5
+        },
+        "fatal": {
+            "type": "dateFile",
+            "filename": "./Logs/*/Fatal/fatal-",
+            "maxLogSize": 1048576,
+            "pattern": "yyyy-MM-dd.log",
+            "alwaysIncludePattern": true,
+            "layout": {
+                "type": "basic"
+            },
+            "backups": 5
+        }
+    },
+    "categories": {
+        "default": {
+            "appenders": ["out"],
+            "level": ["info"]
+        },
+        "trace": {
+            "appenders": ["trace"],
+            "level": ["trace"]
+        },
+        "debug": {
+            "appenders": ["debug"],
+            "level": ["debug"]
+        },
+        "info": {
+            "appenders": ["info"],
+            "level": ["info"]
+        },
+        "warning": {
+            "appenders": ["warning"],
+            "level": ["warn"]
+        },
+        "error": {
+            "appenders": ["error"],
+            "level": ["error"]
+        },
+        "fatal": {
+            "appenders": ["fatal"],
+            "level": ["fatal"]
+        }
+    }
+}

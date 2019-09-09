@@ -1,0 +1,19 @@
+{
+  "name": "diamondserver",
+  "version": "1.0.0",
+  "description": "1. Type: new()=>any\r 类 和 对象的constructor 为type的一种体现\r exp:\r     class A{}\r     const a = new A();\r     const a1 = new a.constructor();\r (a.constructor === A)为true\r (a1.constructor === A)为true",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^11.13.8",
+    "log4js": "^4.1.0",
+    "mongodb": "^3.2.3",
+    "nan": "^2.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "gyp-file": true,
+  "license": "ISC"
+}

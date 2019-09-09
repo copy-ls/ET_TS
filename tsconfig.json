@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "target": "es6",
+        "module": "commonjs",
+        "sourceMap": true,
+        "declaration": true,
+        "declarationDir": "d.ts",
+        "esModuleInterop": true,
+        "outDir": "out",
+        "watch": true,
+        // "noEmitOnError": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "resolveJsonModule": true
+    }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ILoadSystem.js","sourceRoot":"","sources":["../../../../Model/Base/Interface/ILoadSystem.ts"],"names":[],"mappings":";;AAQA,MAAsB,UAAU;IAG5B,YAAY,CAAc;QACtB,IAAI,CAAC,IAAI,GAAG,CAAC,CAAC;IAClB,CAAC;IAED,IAAI;QACA,OAAO,IAAI,CAAC,IAAI,CAAA;IACpB,CAAC;IAED,GAAG,CAAC,CAAM;QACN,IAAI,CAAC,IAAI,CAAC,CAAM,CAAC,CAAC;IACtB,CAAC;CAGJ;AAhBD,gCAgBC"}

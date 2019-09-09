@@ -1,0 +1,1 @@
+{"version":3,"file":"ILateUpdateSystem.js","sourceRoot":"","sources":["../../../../Model/Base/Interface/ILateUpdateSystem.ts"],"names":[],"mappings":";;AAQA,MAAsB,gBAAgB;IAGlC,YAAY,CAAc;QACtB,IAAI,CAAC,IAAI,GAAG,CAAC,CAAC;IAClB,CAAC;IAED,IAAI;QACA,OAAO,IAAI,CAAC,IAAI,CAAA;IACpB,CAAC;IAED,GAAG,CAAC,CAAM;QACN,IAAI,CAAC,UAAU,CAAC,CAAM,CAAC,CAAC;IAC5B,CAAC;CAGJ;AAhBD,4CAgBC"}

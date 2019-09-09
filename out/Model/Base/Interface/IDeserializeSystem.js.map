@@ -1,0 +1,1 @@
+{"version":3,"file":"IDeserializeSystem.js","sourceRoot":"","sources":["../../../../Model/Base/Interface/IDeserializeSystem.ts"],"names":[],"mappings":";;AAQA,MAAsB,iBAAiB;IAGnC,YAAY,CAAc;QACtB,IAAI,CAAC,IAAI,GAAG,CAAC,CAAC;IAClB,CAAC;IAED,IAAI;QACA,OAAO,IAAI,CAAC,IAAI,CAAA;IACpB,CAAC;IAED,GAAG,CAAC,CAAM;QACN,IAAI,CAAC,WAAW,CAAC,CAAM,CAAC,CAAC;IAC7B,CAAC;CAGJ;AAhBD,8CAgBC"}

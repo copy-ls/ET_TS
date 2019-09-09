@@ -1,0 +1,24 @@
+[2019-04-29T13:16:53.987] [ERROR] error - error
+[2019-04-29T20:37:05.436] [ERROR] error -  error
+[2019-04-29T20:51:02.345] [ERROR] error - error Error
+    at Log4jsAdapter.Error (f:\DiamondServer\out\Model\Base\Logger\Log4jsAdapter.js:26:41)
+    at Function.Error (f:\DiamondServer\out\Model\Base\Logger\Log.js:23:23)
+    at f:\DiamondServer\out\App\App.js:27:23
+    at Generator.next (<anonymous>)
+    at f:\DiamondServer\out\App\App.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (f:\DiamondServer\out\App\App.js:3:12)
+    at Main (f:\DiamondServer\out\App\App.js:17:12)
+    at Object.<anonymous> (f:\DiamondServer\out\App\App.js:40:1)
+    at Module._compile (internal/modules/cjs/loader.js:685:14)
+[2019-04-29T21:02:01.819] [ERROR] error - error Error
+    at f:\DiamondServer\out\App\App.js:27:38
+    at Generator.next (<anonymous>)
+    at f:\DiamondServer\out\App\App.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (f:\DiamondServer\out\App\App.js:3:12)
+    at Main (f:\DiamondServer\out\App\App.js:17:12)
+    at Object.<anonymous> (f:\DiamondServer\out\App\App.js:40:1)
+    at Module._compile (internal/modules/cjs/loader.js:685:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:699:10)
+    at Module.load (internal/modules/cjs/loader.js:598:32)

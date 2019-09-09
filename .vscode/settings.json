@@ -1,0 +1,12 @@
+{
+    "search.exclude": {
+        "**/out": true,
+        "**/d.ts": true
+    },
+    "files.exclude": {
+        "**/out": true,
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+}
