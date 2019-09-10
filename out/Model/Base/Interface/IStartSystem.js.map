@@ -1,1 +1,0 @@
-{"version":3,"file":"IStartSystem.js","sourceRoot":"","sources":["../../../../Model/Base/Interface/IStartSystem.ts"],"names":[],"mappings":";;AAQA,MAAsB,WAAW;IAG7B,YAAY,CAAc;QACtB,IAAI,CAAC,IAAI,GAAG,CAAC,CAAC;IAClB,CAAC;IAED,IAAI;QACA,OAAO,IAAI,CAAC,IAAI,CAAA;IACpB,CAAC;IAED,GAAG,CAAC,CAAM;QACN,IAAI,CAAC,KAAK,CAAC,CAAM,CAAC,CAAC;IACvB,CAAC;CAGJ;AAhBD,kCAgBC"}
