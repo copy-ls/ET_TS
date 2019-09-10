@@ -1,8 +1,10 @@
 
 原开源：https://github.com/egametang/ET
 
-1. Type: new()=>any 类 和 对象的constructor 为type的一种体现
+#1. Type: new()=>any 
+\r\n类 和 对象的constructor 为type的一种体现
 example:
+```
     class A{
     }   
     const a = new A();
@@ -13,3 +15,4 @@ example:
     //true
     if(a1.constructor === A){
     }
+```
